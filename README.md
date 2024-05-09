@@ -7,8 +7,8 @@ Designer, Web Developer
 Gihan is a Designer and Web Developer. He is a full-time designer with years of experience in graphic design and web development. He is a student at Uva Wellassa University following a degree related to the ICT field. He runs some websites by himself and plays Chess, Cricket, and Swimming as Sports.
 
 * 🌍  I'm based in Sri Lanka
-* 🚀  I'm currently working on [Sellfire Media](https://www.sellfiremedia.com/) & [Atmo Technologies Pvt Ltd]((https://atmo.lk/))
-* 🧠  I'm learning JavaScript
+* 🚀  I'm currently working as a Creative Strategist
+* 🧠  I'm interested in Data Science and Data Engineering etc.
 
 ### Skills
 
