@@ -1,14 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gihan Vimukthi
-======================================================================================================================================
+![MasterHead](https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gif)
+<h1 align="center">Hi 👋, I'm Gihan Vimukthi</h1>
+<h3 align="center">Passionate About Data Science and Mobile App Development</h3>
 
-Designer, Web Developer
------------------------
-
-Gihan is a Designer and Web Developer. He is a full-time designer with years of experience in graphic design and web development. He is a student at Uva Wellassa University following a degree related to the ICT field. He runs some websites by himself and plays Chess, Cricket, and Swimming as Sports.
-
-* 🌍  I'm based in Sri Lanka
-* 🚀  I'm currently working as a Creative Strategist
-* 🧠  I'm interested in Data Science and Data Engineering etc.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/@gixa789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@gixa789" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gihan vimukthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gihan vimukthi" height="30" width="40" /></a>
+<a href="https://fb.com/gihan vimukthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gihan vimukthi" height="30" width="40" /></a>
+</p>
 
 ### Skills
 
@@ -29,6 +28,12 @@ Gihan is a Designer and Web Developer. He is a full-time designer with years of 
 </p>
 
 
-### Socials
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gixa789&show_icons=true&locale=en&layout=compact" alt="gixa789" /></p>
 
-<p align="left"> <a href="https://www.behance.com/gihanvimukthi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.dribbble.com/GIXA789?onboarding=true" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> <a href="https://www.github.com/GIXA789" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gihan-vimukthi-647458208/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@gihan2000v" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/GihanVimukthi2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gixa789&show_icons=true&locale=en" alt="gixa789" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gixa789&" alt="gixa789" /></p>
+
+
+
+
